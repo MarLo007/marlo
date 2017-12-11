@@ -1,0 +1,3 @@
+com\lida\dream_webservice\client\ClientForCXF.class
+com\lida\dream_webservice\server\MyWebService.class
+com\lida\dream_webservice\server\MyWebserviceImpl.class
